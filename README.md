@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/Lib-PyGame-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Sympy-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-SymPy-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 
 
 ### 📈 Progress
