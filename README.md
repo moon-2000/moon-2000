@@ -19,11 +19,11 @@
 ![](https://img.shields.io/badge/Lib-TensorFlow-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-PyTorch-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Matplotlib-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-ggplot2-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-PyGame-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Sympy-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-ggplot2-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-PyGame-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Sympy-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 
 
 ### 📈 Progress
