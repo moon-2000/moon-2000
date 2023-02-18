@@ -3,19 +3,7 @@
 #### AI Research Assistant | Junior Data Scientist | Software Developer   
 
 
-<!-- Actual text -->
 
-You can find me on \[!\[\][1.2]\][1], or on \[!\[LinkedIn\][3.2]\][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
 
 
 ### 🛠️ Technologies & Tools 
@@ -36,7 +24,6 @@ You can find me on \[!\[\][1.2]\][1], or on \[!\[LinkedIn\][3.2]\][3].
 ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Sympy-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
-
 
 
 ### 📈 Progress
