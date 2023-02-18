@@ -27,7 +27,7 @@ You can find me on \[!\[\][1.2]\][1], or on \[!\[LinkedIn\][3.2]\][3].
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Excel-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-MATLAB-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-Sikit-Learn-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Sikit Learn-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
 
 
 
