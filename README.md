@@ -1,6 +1,6 @@
 
 ## Hey! I'm Amany Omar
-#### AI Research Assistant | Junior Data Scientist | Software Developer   
+### AI Research Assistant | Junior Data Scientist | Software Developer   
 As a skilled and experienced AI research assistant, I specialize in using cutting-edge techniques and tools to derive valuable insights from complex datasets.   
 #### My main areas:
 + data cleaning and preprocessing 
