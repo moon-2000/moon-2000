@@ -6,7 +6,7 @@
 
 
 ### 🛠️ Technologies & Tools 
-
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
 
 ### 📈 Progress
 
