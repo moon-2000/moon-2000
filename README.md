@@ -1,6 +1,6 @@
 
 ## Amany Omar
-### Junior Data Scientist | Backend Developer | AI Research Assistant 
+### AI Research Assistant | Junior Data Scientist | Backend Developer  
 
 <!--
 **moon-2000/moon-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
