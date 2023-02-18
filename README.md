@@ -1,5 +1,5 @@
 
-### Amany Omar
+## Amany Omar
 #### AI Research Assistant | Junior Data Scientist | Software Developer   
 
 
