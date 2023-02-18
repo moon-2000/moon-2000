@@ -2,12 +2,12 @@
 ## Hey! I'm Amany Omar
 ### AI Research Assistant | Junior Data Scientist | Software Developer   
 As a skilled and experienced AI research assistant, I specialize in using cutting-edge techniques and tools to derive valuable insights from complex datasets.   
-#### My main areas:
+#### My main areas 😄:
 + data cleaning and preprocessing 
 + hypothesis testing for data-driven decisions
 + developing predictive models
 + uncovering hidden patterns
-+ visualizing data in compelling ways
++ visualizing data in compelling ways 📈
 + end-to-end ML piplines
 
 Through this portfolio, I hope to showcase my talents and give you a glimpse into the types of data-driven solutions I can bring to your team.
@@ -36,7 +36,7 @@ Through this portfolio, I hope to showcase my talents and give you a glimpse int
 ![](https://img.shields.io/badge/Lib-SymPy-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 
 
-### 📈 Progress
+###  Progress
 
 
 
@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
