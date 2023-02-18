@@ -1,10 +1,17 @@
 
 ### Amany Omar
-#### AI Research Assistant | Junior Data Scientist | Software Developer  
+#### AI Research Assistant | Junior Data Scientist | Software Developer   
+
 
 
 
 ### 🛠️ Technologies & Tools 
+
+
+### GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<moon-2000>&theme=<THEME_NAME>" />
+
 <!--
 **moon-2000/moon-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
