@@ -8,7 +8,7 @@
 ### 🛠️ Technologies & Tools 
 
 
-### 📈 GitHub Stats
+### 📈 Progress
 
 
 
