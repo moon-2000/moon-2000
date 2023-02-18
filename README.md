@@ -10,9 +10,6 @@ As a skilled and experienced AI research assistant, I specialize in using cuttin
 + visualizing data in compelling ways 📈
 + end-to-end ML piplines
 
-Through this portfolio, I hope to showcase my talents and give you a glimpse into the types of data-driven solutions I can bring to your team.
-
-
 
 
 ### 🛠️ Technologies & Tools 
