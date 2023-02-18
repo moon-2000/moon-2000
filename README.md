@@ -33,6 +33,9 @@ You can find me on \[!\[\][1.2]\][1], or on \[!\[LinkedIn\][3.2]\][3].
 ![](https://img.shields.io/badge/Lib-Matplotlib-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-ggplot2-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-PyGame-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Sympy-informational?style=flat&logo=</github/pipenv/locked/python-version/:user/:repo>&logoColor=white&color=2bbc8a)
 
 
 
