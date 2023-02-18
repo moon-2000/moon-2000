@@ -11,7 +11,7 @@
 ### GitHub Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-2000&layout=compact)](https://github.com/moon-2000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-2000&layout=compact&show_icons=true&theme=radical)](https://github.com/moon-2000/github-readme-stats)
 <!--
 **moon-2000/moon-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
