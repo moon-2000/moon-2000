@@ -8,7 +8,7 @@
 ### 🛠️ Technologies & Tools 
 
 
-### GitHub Stats
+### 📈 GitHub Stats
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-2000&layout=compact&show_icons=true&theme=radical)](https://github.com/moon-2000/github-readme-stats)
