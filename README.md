@@ -12,7 +12,7 @@ As a skilled and experienced AI research assistant, I specialize in using cuttin
 
 
 
-### 🛠️ Technologies & Tools 
+## 🛠️ Technologies & Tools 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C_sharp-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
