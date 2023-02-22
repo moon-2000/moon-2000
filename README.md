@@ -6,14 +6,14 @@ As a skilled and experienced AI research assistant, I specialize in using cuttin
 + data cleaning and preprocessing  & developing predictive models
 + uncovering hidden patterns & visualizing data in compelling ways 
 + end-to-end ML piplines
-+ deep learning frameworks, including TensorFlow and PyTorch. 
++ image classification, natural language processing, and recommender systems, using TensorFlow and PyTorch. 
 + computer vision tasks (e.g. Object Detection with YOLO models)
 
 
 
 
 ## 🛠️ Technologies & Tools 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![Amany](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C_sharp-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
