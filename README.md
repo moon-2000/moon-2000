@@ -1,7 +1,7 @@
 
 ## Hey! I'm Amany Omar
 ### AI Research Assistant | Junior Data Scientist 
-As a skilled and experienced AI research assistant, I specialize in using cutting-edge techniques and tools to derive valuable insights from complex datasets. I am certified from [365 Data Science](https://learn.365datascience.com/c/8e3dc08eac/) board
+As I am a certified Data Scientist from [365 Data Science](https://learn.365datascience.com/c/8e3dc08eac/) board, I specialize in using cutting-edge techniques and tools to derive valuable insights from complex datasets. 
 #### 📈 My main areas :
 + data cleaning and preprocessing  & developing predictive models e.g [Stroke Prediction](https://mygit.th-deg.de/ok29267/as_omar_amany.git) 
 + uncovering hidden patterns & visualizing data in compelling ways using [Tableau](https://public.tableau.com/app/profile/amany.omar)
@@ -10,7 +10,6 @@ As a skilled and experienced AI research assistant, I specialize in using cuttin
 + natural language processing with RASA framewor e.g. [Brainify Voicebot](https://mygit.th-deg.de/aa10098/brainify_voice_assistant_system.git) 
 + computer vision tasks (e.g. Object Detection with YOLO models)
 + game development with Python e.g. [Connect4 Game](https://github.com/moon-2000/Connect_4_Game.git)
-
 
 
 
