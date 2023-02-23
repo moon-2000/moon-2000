@@ -3,7 +3,7 @@
 ### AI Research Assistant | Junior Data Scientist 
 As a skilled and experienced AI research assistant, I specialize in using cutting-edge techniques and tools to derive valuable insights from complex datasets. I am certified from [365 Data Science](https://learn.365datascience.com/c/8e3dc08eac/) board
 #### 📈 My main areas :
-+ data cleaning and preprocessing  & developing predictive models
++ data cleaning and preprocessing  & developing predictive models e.g [Stroke Prediction](https://mygit.th-deg.de/ok29267/as_omar_amany.git) 
 + uncovering hidden patterns & visualizing data in compelling ways using [Tableau](https://public.tableau.com/app/profile/amany.omar)
 + end-to-end ML piplines
 + image classification and recommender systems, using TensorFlow and PyTorch. 
