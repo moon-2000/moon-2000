@@ -1,7 +1,7 @@
 
 ## Hey! I'm Amany Omar
 ### AI Research Assistant | Junior Data Scientist 
-As I am a certified Data Scientist from [365 Data Science](https://learn.365datascience.com/c/8e3dc08eac/) board, I specialize in using cutting-edge techniques and tools to derive valuable insights from complex datasets. 
+As a certified Data Scientist from [365 Data Science](https://learn.365datascience.com/c/8e3dc08eac/) board, I specialize in using cutting-edge techniques and tools to derive valuable insights from complex datasets. 
 #### 📈 My main areas :
 + data cleaning and preprocessing  & developing predictive models e.g [Stroke Prediction](https://mygit.th-deg.de/ok29267/as_omar_amany.git) 
 + uncovering hidden patterns & visualizing data in compelling ways using [Tableau](https://public.tableau.com/app/profile/amany.omar)
