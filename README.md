@@ -4,10 +4,10 @@
 As a skilled and experienced AI research assistant, I specialize in using cutting-edge techniques and tools to derive valuable insights from complex datasets. I am certified from [365 Data Science](https://learn.365datascience.com/c/8e3dc08eac/) board
 #### 📈 My main areas :
 + data cleaning and preprocessing  & developing predictive models
-+ uncovering hidden patterns & visualizing data in compelling ways 
++ uncovering hidden patterns & visualizing data in compelling ways using [Tableau](https://public.tableau.com/app/profile/amany.omar)
 + end-to-end ML piplines
 + image classification and recommender systems, using TensorFlow and PyTorch. 
-+ natural language processing with RASA framework
++ natural language processing with RASA framewor. [Brainify Voicebot](https://mygit.th-deg.de/aa10098/brainify_voice_assistant_system.git) 
 + computer vision tasks (e.g. Object Detection with YOLO models)
 
 
