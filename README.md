@@ -7,7 +7,7 @@ As a certified Data Scientist from [365 Data Science](https://learn.365datascien
 + uncovering hidden patterns & visualizing data in compelling ways using Python, R, Excel, and [Tableau](https://public.tableau.com/app/profile/amany.omar),
 + end-to-end ML piplines
 + image classification and recommender systems, using TensorFlow and PyTorch. 
-+ natural language processing with RASA framewor e.g. [Brainify Voicebot](https://mygit.th-deg.de/aa10098/brainify_voice_assistant_system.git) 
++ natural language processing with RASA framework e.g. [Brainify Voicebot](https://mygit.th-deg.de/aa10098/brainify_voice_assistant_system.git) 
 + computer vision tasks (e.g. Object Detection with YOLO models)
 + game development with Python e.g. [Connect4 Game](https://github.com/moon-2000/Connect_4_Game.git)
 
