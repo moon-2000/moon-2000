@@ -4,7 +4,7 @@
 As a certified Data Scientist from [365 Data Science](https://learn.365datascience.com/c/8e3dc08eac/) board, I specialize in using cutting-edge techniques and tools to derive valuable insights from complex datasets. 
 #### 📈 My main areas :
 + data cleaning and preprocessing  & developing predictive models e.g [Stroke Prediction](https://mygit.th-deg.de/ok29267/as_omar_amany.git) 
-+ uncovering hidden patterns & visualizing data in compelling ways using Python, R, Excel, and [Tableau](https://public.tableau.com/app/profile/amany.omar),
++ uncovering hidden patterns & visualizing data in compelling ways using Python, R, Excel, and [Tableau](https://public.tableau.com/app/profile/amany.omar)
 + end-to-end ML piplines
 + image classification and recommender systems, using TensorFlow and PyTorch. 
 + natural language processing with RASA framework e.g. [Brainify Voicebot](https://mygit.th-deg.de/aa10098/brainify_voice_assistant_system.git) 
