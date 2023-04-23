@@ -7,7 +7,7 @@ As a certified Data Scientist from [365 Data Science](https://learn.365datascien
 + uncovering hidden patterns & visualizing data in compelling ways using Python, R, Excel, and [Tableau](https://public.tableau.com/app/profile/amany.omar)
 + end-to-end ML piplines
 + natural language processing (e.g. text extraction/ classification/ generation/ summarization, Chatbots with NodeJS [HairStyling](https://github.com/moon-2000/Hairstyle_Recommendation_Chatbot.git) and RASA framework e.g. [Brainify Voicebot](https://mygit.th-deg.de/aa10098/brainify_voice_assistant_system.git) )
-+ computer vision tasks (e.g. image segmentation, image Object Detection with YOLO models)
++ computer vision tasks (e.g. image segmentation/ classification, object detection with YOLO models, object tracking)
 + game development with Python e.g. [Connect4 Game](https://github.com/moon-2000/Connect_4_Game.git)
 
 
@@ -27,6 +27,7 @@ As a certified Data Scientist from [365 Data Science](https://learn.365datascien
 ![](https://img.shields.io/badge/Lib-Keras-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Spacy-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-NLTK-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-OpenCV-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Hugging Face-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Matplotlib-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-ggplot2-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
