@@ -6,7 +6,7 @@ As a certified Data Scientist from [365 Data Science](https://learn.365datascien
 + data cleaning and preprocessing  & developing predictive models e.g [Stroke Prediction](https://mygit.th-deg.de/ok29267/as_omar_amany.git) 
 + uncovering hidden patterns & visualizing data in compelling ways using Python, R, Excel, and [Tableau](https://public.tableau.com/app/profile/amany.omar)
 + end-to-end ML piplines
-+ natural language processing (e.g. text extraction/ classification/ generation/ summarization, Chatbots with NodeJS [HairStyling](https://github.com/moon-2000/Hairstyle_Recommendation_Chatbot.git) and RASA framework e.g. [Brainify Voicebot](https://mygit.th-deg.de/aa10098/brainify_voice_assistant_system.git) )
++ natural language processing (e.g. text extraction/ classification/ generation/ summarization, Chatbots with NodeJS e.g. [HairStyling](https://github.com/moon-2000/Hairstyle_Recommendation_Chatbot.git) and RASA framework e.g. [Brainify Voicebot](https://mygit.th-deg.de/aa10098/brainify_voice_assistant_system.git) )
 + computer vision tasks (e.g. image segmentation/ classification, object detection with YOLO models, object tracking)
 + game development with Python e.g. [Connect4 Game](https://github.com/moon-2000/Connect_4_Game.git)
 
