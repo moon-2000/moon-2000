@@ -34,7 +34,7 @@ As a certified Data Scientist from [365 Data Science](https://learn.365datascien
 ![](https://img.shields.io/badge/Lib-PyGame-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-NumPy-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-SymPy-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Java-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Lib-SymPy-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 
 
 
