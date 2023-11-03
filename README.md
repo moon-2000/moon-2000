@@ -4,17 +4,15 @@
 As a passionate Computer Vision Research Engineer and a certified Data Scientist from [365 Data Science](https://learn.365datascience.com/c/8e3dc08eac/) board, 
 I specialize in leveraging cutting-edge techniques and tools to extract valuable insights from intricate datasets. Here's a breakdown of my expertise:
 
-What I Can Do:
-
 ### Machine Learning
 
 In the realm of Machine Learning, I excel in:
 
     Data Exploration, Cleaning, Preprocessing, and Manipulation: I specialize in preparing data for analysis, ensuring it's accurate, consistent, and ready for modeling.
 
-    Building Predictive Models: From classic regression models to advanced neural networks, I develop predictive models tailored to specific tasks. I don't just stop at building; I continually optimize and maintain these models for peak performance.
+    Building Predictive Models: From classic regression models to advanced neural networks, I develop predictive models tailored to specific tasks. 
 
-    Model Deployment on Azure: I have experience deploying machine learning models on Azure, making them accessible and usable in real-world applications.
+    Model Deployment: I have experience deploying machine learning models on Azure and AWS, making them accessible and usable in real-world applications.
 
 ### Computer Vision
 
