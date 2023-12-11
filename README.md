@@ -8,31 +8,30 @@ I specialize in leveraging cutting-edge techniques and tools to extract valuable
 
 In the realm of Machine Learning, I excel in:
 
-    Data Exploration, Cleaning, Preprocessing, and Manipulation: I specialize in preparing data for analysis, ensuring it's accurate, consistent, and ready for modeling.
+    Data Exploration, Cleaning, Preprocessing, and Manipulation     
 
-    Building Predictive Models: From classic regression models to advanced neural networks, I develop predictive models tailored to specific tasks. 
+    Building Predictive Models      
 
-    Model Deployment: I have experience deploying machine learning models on Azure and AWS, making them accessible and usable in real-world applications.
-
+    Model Deployment       
 ### Computer Vision
 
 My expertise in Computer Vision spans various tasks:
 
-    Object Detection: I utilize advanced YOLO models such as v5, v7, and v8 for accurate object detection in images and videos.
+    Object Detection                    
 
-    Object Tracking: I'm skilled in implementing tracking algorithms like Kalman filter, DeepSORT, and StrongSORT to track objects over time, ensuring seamless monitoring.
+    Object Tracking   
 
-    Vision Transformers for Object Re-identification: I leverage vision transformers to enhance object re-identification, allowing for more accurate and efficient recognition of objects across different scenarios.
+    Vision Transformers for Object Re-identification   
 
-    Image Segmentation/Classification: I'm adept at segmenting images into meaningful regions and classifying objects within these segments, enabling detailed analysis and understanding.
+    Image Segmentation/Classification                 
 
 ### Game Development
 
 In the realm of game development, I've worked on exciting projects:
 
-    C++ (Pinball-Space Project): I've contributed to the creation of engaging games using C++. One of my notable projects includes the Pinball-Space game.
+    C++ (Pinball-Space Project)    
 
-    Python (Tic Tac Toe and Connect4 Projects): I've crafted interactive games like Tic Tac Toe and Connect4 using Python, combining fun and learning in an accessible format.
+    Python (Tic Tac Toe and Connect4 Projects)     
 
 
 Feel free to explore my repository to see these skills in action and witness the intersection of creativity and technology. 
