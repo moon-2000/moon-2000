@@ -24,14 +24,7 @@ My expertise in Computer Vision spans various tasks:
     Vision Transformers for Object Re-identification   
 
     Image Segmentation/Classification                 
-
-### Game Development
-
-In the realm of game development, I've worked on exciting projects:
-
-    C++ (Pinball-Space Project)    
-
-    Python (Tic Tac Toe and Connect4 Projects)     
+ 
 
 
 Feel free to explore my repository to see these skills in action and witness the intersection of creativity and technology. 
