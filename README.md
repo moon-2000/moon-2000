@@ -48,6 +48,7 @@ Amany :)
 ### Development & Version Control
 ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![GitLab](https://img.shields.io/badge/Tool-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
 
 ### Libraries & Frameworks
 ![Scikit-Learn](https://img.shields.io/badge/Lib-SkLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
